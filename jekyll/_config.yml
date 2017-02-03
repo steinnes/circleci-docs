@@ -21,6 +21,10 @@ collections:
     output: true
     permalink: /enterprise/:path/
     prefix: enterprise
+  cci2:
+    output: true
+    permalink: /2.0/:path/
+    prefix: 2.0
 
 twitter_username: circleci
 github_username:  circleci
